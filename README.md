@@ -13,3 +13,6 @@ PrimeFlex: https://www.primefaces.org/primeflex/
 
 
 Font Awesome: https://fontawesome.com/
+
+
+necessario start do back end (construido pelo professor) no arquivo node-course-carsales
