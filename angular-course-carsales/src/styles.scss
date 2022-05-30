@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+$bakgrand-color: #252525;
+$font-color: #ffff;
+
+
+
+body{
+
+  background-image: url("./assets/background-car.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.95;
+}
+
+.p-card{
+  background-color:$bakgrand-color ;
+  color: $font-color;
+
+}
+
+
+.text-center{
+  text-align: center;
+}
+
+i{
+  color:#007AD9;
+}
+
+
